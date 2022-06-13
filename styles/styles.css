@@ -1,0 +1,248 @@
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.main {
+  position: relative;
+  width: 1280px;
+  height: 1399px;
+  background: #f5f7fa;
+}
+
+.sidebar {
+  position: absolute;
+  width: 370px;
+  height: 1319px;
+  left: 40px;
+  top: 40px;
+  background-color: #1e2939;
+}
+
+.contacts {
+  position: absolute;
+  /* width: 183px; */
+  height: 83px;
+  left: 40px;
+  top: 485px;
+}
+
+.contacts h2 {
+  font-size: 22px;
+  font-weight: 700px;
+  color: #ffffff;
+}
+
+.contacts p {
+  font-size: 14px;
+  font-weight: 700px;
+  color: #ffffff;
+}
+
+.contacts p a {
+  font-size: 14px;
+  font-weight: 400px;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+.tech-skills {
+  position: absolute;
+  width: 121px;
+  height: 203px;
+  left: 40px;
+  top: 615px;
+}
+
+.tech-skills h2 {
+  font-size: 22px;
+  font-weight: 700px;
+  color: #ffffff;
+}
+
+.tech-skills ul {
+  font-size: 14px;
+  font-weight: 700px;
+  padding-left: 13px;
+}
+
+.tech-skills ul li {
+  color: #fb6d3a;
+}
+
+.tech-skills ul li span {
+  color: #fff;
+}
+
+.soft-skills {
+  position: absolute;
+  width: 113px;
+  height: 131px;
+  left: 40px;
+  top: 862px;
+}
+
+.soft-skills h2 {
+  font-size: 22px;
+  font-weight: 700px;
+  color: #ffffff;
+}
+
+.soft-skills ul {
+  font-size: 14px;
+  font-weight: 700px;
+  padding-left: 13px;
+}
+
+.soft-skills ul li {
+  color: #fb6d3a;
+}
+
+.soft-skills ul li span {
+  color: #ffffff;
+}
+
+.photo {
+  position: absolute;
+  width: 370px;
+  height: 354px;
+  left: 0px;
+  top: 80px;
+}
+
+.about-user {
+  position: absolute;
+  width: 400px;
+  height: 230px;
+  left: 498px;
+  top: 142px;
+}
+
+.about-user h4 {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.about-user h1 {
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.about-user p {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.projects {
+  position: absolute;
+  width: 485px;
+  height: 107px;
+  left: 498px;
+  top: 412px;
+}
+
+.projects h2 {
+  font-size: 22px;
+  font-weight: 700px;
+}
+
+.projects ol li a {
+  font-size: 14px;
+  font-weight: 400px;
+}
+
+.projects ol li {
+  font-size: 14px;
+  font-weight: 700px;
+}
+
+.work {
+  position: absolute;
+  width: 525px;
+  height: 213px;
+  left: 498px;
+  top: 570px;
+}
+
+.work h2 {
+  font-size: 22px;
+  font-weight: 700px;
+}
+
+.company-1 h3 {
+  font-size: 16px;
+  font-weight: 700px;
+}
+
+.company-1 span {
+  color: #fb6d3a;
+}
+
+.company-1 p {
+  font-size: 12px;
+  font-weight: 400px;
+}
+
+.company-1 ul {
+  font-size: 14px;
+  font-weight: 400px;
+}
+
+.company-2 h3 {
+  font-size: 16px;
+  font-weight: 700px;
+}
+
+.company-2 span {
+  color: #fb6d3a;
+}
+
+.company-2 p {
+  font-size: 12px;
+  font-weight: 400px;
+}
+
+.company-2 ul {
+  font-size: 14px;
+  font-weight: 400px;
+}
+
+.company-3 h3 {
+  font-size: 16px;
+  font-weight: 700px;
+}
+
+.company-3 span {
+  color: #fb6d3a;
+}
+
+.company-3 p {
+  font-size: 12px;
+  font-weight: 400px;
+}
+
+.company-3 ul {
+  font-size: 14px;
+  font-weight: 400px;
+}
+
+.education h2 {
+  font-size: 22px;
+  font-weight: 700px;
+}
+
+.education h3 {
+  font-size: 16px;
+  font-weight: 700px;
+  color: #fb6d3a;
+}
+
+.education h5 {
+  font-size: 14px;
+  font-weight: 700px;
+}
+
+.education p {
+  font-size: 12px;
+  font-weight: 400px;
+}
